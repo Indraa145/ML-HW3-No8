@@ -28,6 +28,7 @@ It'll contains the same files as the MNIST experiment one, but it'll run on the 
 The model was ran for 100 epochs for both the MNIST and Fashion MNIST Dataset. The images below shows the model generative performance from the first epoch until the 100th epoch.
 
 ### MNIST
+![](screenshots/CDCGAN-MNIST.gif)
 
 ### The Loss (MNIST)
 The loss is visualized using the "Swiss-Army-Tensorboard". You run it the same way as how you run Tensorboard, .....
@@ -35,12 +36,16 @@ The loss is visualized using the "Swiss-Army-Tensorboard". You run it the same w
 The log files is created when you're training the model, as it will log your training loss for each epoch. I've included my log file ....
 The graph below will show both the Generator and Discriminator Loss of the model when training on the MNIST Dataset:
 #### Generator Loss
-#### Discriminator LOss
+#### Discriminator Loss
 
 ### Fashion MNIST
+![](screenshots/CDCGAN-FMNIST.gif)
 
 ### The loss (Fashion MNIST)
 The loss is visualized using the "Swiss-Army-Tensorboard" as well. To run it ....
 
 #### Generator Loss
 #### Discriminator Loss
+
+## Testing the model
+Below are images that are generated from the model on
