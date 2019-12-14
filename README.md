@@ -36,7 +36,10 @@ The loss is visualized using the "Swiss-Army-Tensorboard". You run it the same w
 The log files is created when you're training the model, as it will log your training loss for each epoch. I've included my log file ....
 The graph below will show both the Generator and Discriminator Loss of the model when training on the MNIST Dataset:
 #### Generator Loss
+![](screenshots/MNIST-generator-loss.PNG)
+
 #### Discriminator Loss
+![](screenshots/MNIST-discriminator-loss.PNG)
 
 ### Fashion MNIST
 ![](screenshots/CDCGAN-FMNIST.gif)
@@ -45,7 +48,10 @@ The graph below will show both the Generator and Discriminator Loss of the model
 The loss is visualized using the "Swiss-Army-Tensorboard" as well. To run it ....
 
 #### Generator Loss
+![](screenshots/FMNIST-generator-loss.PNG)
+
 #### Discriminator Loss
+![](screenshots/FMNIST-discriminator-loss.PNG)
 
 ## Testing the model
 Below are images that are generated from the model on
