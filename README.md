@@ -21,8 +21,8 @@ There are 4 important files in each of those folders:
 
 I've included the model that I've trained in `CDCGAN-Keras-MNIST/models/weights`, for the MNIST experiment, and\
 `CDCGAN-Keras-FMNIST/models/weights`, for the Fashion MNIST experiment. In those folders, you'll find these files:
-* `generator_mnist.h5`, it's the generator model for the MNIST experiment.
-* `discriminator_mnist.h5`, it's the discriminator model for the MNIST experiment.
+* `generator.h5`, it's the generator model for the MNIST experiment.
+* `discriminator.h5`, it's the discriminator model for the MNIST experiment.
 * `generator_fashion_mnist.h5`, it's the generator model for the Fashion MNIST experiment.
 * `discriminator_fashion_mnist.h5`, it's the discriminator model for the Fashion MNIST experiment.
 
