@@ -1,6 +1,9 @@
 # cDCGAN on MNIST & Fashion MNIST w/ Tensorflow & Keras
 This is the implementation of conditional deep convolutional generative adversarial network (cDCGAN) on the MNIST and Fashion MNIST Dataset using Tensorflow and Keras. The implementation is based on [this code](https://github.com/gaborvecsei/CDCGAN-Keras) by @gaborvescei. The example code by him runs on the MNIST Dataset. I've added the implementation for Fashion MNIST dataset on his code.
 
+Here is an abstract model of this cDCGAN implementation:
+![](screenshots/cdcgan_abstract_model.png)
+
 ## Setup
 Install Tensorflow, Keras, Numpy, Matplotlib, os, cv2, math, subprocess.\
 All of which can be installed using [Anaconda](https://www.anaconda.com/distribution/)\
