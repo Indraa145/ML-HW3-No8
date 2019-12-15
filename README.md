@@ -30,9 +30,9 @@ I've included the model that I've trained in `CDCGAN-Keras-MNIST/models/weights`
 * `discriminator_fashion_mnist.h5`, it's the discriminator model for the Fashion MNIST experiment.
 
 The model is too big to upload on Github, so I uploaded it into Google Drive, here are the links:
-* `generator.h5` &  `discriminator.h5`\ 
+* `generator.h5` &  `discriminator.h5` <br> 
    https://drive.google.com/open?id=1OO1GBK7V5oAWK8b9p0BeRM0KET12OUNl
-* `generator_fashion_mnist.h5` &  `discriminator_fashion_mnist.h5`\ 
+* `generator_fashion_mnist.h5` &  `discriminator_fashion_mnist.h5` <br> 
    https://drive.google.com/open?id=1t_K4kuL14qmqfGfim7J7xxp_A-VkJVd7
 
 Test on those models can be done by running the `test_model.ipynb` file on Jupyter Notebook or Google Collab.\
